@@ -14,7 +14,7 @@
 //  furnished to do so, subject to the following conditions:
 //
 //  The above copyright notice and this permission notice shall be included in
-//  all copies or substantial portions of the Software.
+//  all copies or substantial portions of the Software.
 //
 //  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 //  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -37,7 +37,6 @@
 #import <BlocksKit/UIPopoverController+BlocksKit.h>
 #import <BlocksKit/UITextField+BlocksKit.h>
 #import <BlocksKit/UIView+BlocksKit.h>
-#import <BlocksKit/UIWebView+BlocksKit.h>
 #import <BlocksKit/UITextField+BlocksKit.h>
 #import <BlocksKit/UITextView+BlocksKit.h>
 #import <BlocksKit/UIImagePickerController+BlocksKit.h>
